@@ -13,3 +13,17 @@
 
 
 ##  https://designable-antd.formilyjs.org 阿里的配置化表单 支持 antd 和 其他组件库
+
+
+## Socket.io-client 基于 websocket 的 socket 通信库 低延迟
+
+## NestJS  基于 node 的企业级框架 提供模块化架构
+
+##  WebSocket (Socket.io) 实现数据同步
+
+## 基于pnpm的Monorepo架构  适合开发独立开发一个全栈项目
+参考 https://juejin.cn/post/7494657593361842214
+
+
+
+## 自动化测试 框架 playwright
